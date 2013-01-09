@@ -1,6 +1,6 @@
 # crawly
 
-make output crawl across your terminal
+make output crawl across your terminal all spooky like
 
 ### usage:
 
