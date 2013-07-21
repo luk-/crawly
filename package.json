@@ -1,11 +1,11 @@
 {
   "name": "crawly",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "make output crawl across your terminal all spooky like",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com:st-luke/crawly.git"
+    "url": "git://github.com:luk-/crawly.git"
   },
   "keywords": [
     "crawl",
@@ -14,7 +14,7 @@
   ],
   "author": {
     "name": "Luke Arduini",
-    "email": "luke.arduini@me.com",
+    "email": "luke.arduini@gmail.com",
     "url": "http://luke.xxx"
   },
   "license": "MIT"
